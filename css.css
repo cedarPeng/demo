@@ -63,7 +63,7 @@ section:nth-of-type(2) > div > p {
     line-height: 25px;
 }
 
-body > sextion {
+sextion:nth-of-type(3),sextion:nth-of-type(4),sextion:nth-of-type(5) {
     display:flex;
     flex-direction:column;
     algin-items:center;

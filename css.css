@@ -62,3 +62,10 @@ section:nth-of-type(2) > div > p {
     text-indent: 2em;
     line-height: 25px;
 }
+
+body > sextion {
+    display:flex;
+    flex-direction:column;
+    algin-items:center;
+    margin-top:2em;
+}
